@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Thrive Media Kit</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='styles/main.css'>
+    <link rel="stylesheet" href="scripts/aos/aos.css">
+
+    <script src="scripts/modal.js"></script>
+    <script src="scripts/fullstory.js"></script>
+</head>
+<body>
+
+    <div class="container" id="media-kit">
+
+        <div id="header">
+            <div id="text">
+                <h1>media kit</h1>
+                <p>On this page you can find high resolution versions of all the images on the site and several extra mockups and light and dark versions of the logo.</p>
+            </div>
+
+            <div id="buttons">
+                <a href="index.htm">Go Back</a>
+                <a href="assets/thrive-kit.zip" download="">Download</a>
+            </div>
+        </div>
+
+        <img src="assets/images/media-preview.png">
+
+        <div id="footer">
+            <div id="links">
+    <p>Made by Cristian M.</p>
+    <div>
+        <a href="gb/developer/cristian-moisei/id1397348511.html" target="_blank">More apps</a>
+        <a href="media-kit.php.html">Media Kit</a>
+        <a onclick="showContactDetails()">Contact + Feedback</a>
+    </div>
+</div>        </div>
+
+    </div>
+
+        <div class="overlay" id="contact-modal">
+    <div class="modal-content">
+
+        <h2>Contact + Feedback</h2>
+        <p>If you have any questions or feedback about the app, or if you'd just like to say hello, please send a message below.</p>
+
+        <form method="post" action="scripts/send-email.php">
+
+            <input type="text" name="Name" id="Name" placeholder="Name" required="" oninvalid="this.setCustomValidity('Please enter your name')" oninput="this.setCustomValidity('')">					
+            <input type="email" name="Email" id="Email" placeholder="Email Address" required="" oninvalid="this.setCustomValidity('Please enter a valid email')" oninput="this.setCustomValidity('')">
+            <textarea name="Message" id="Message" oninvalid="this.setCustomValidity('The message cannot be empty')" oninput="this.setCustomValidity('')" placeholder="Message" required=""></textarea>
+
+            <input type="submit" name="submit" id="submit" value="Send Message">
+            <input type="button" id="close" onclick="hideContactDetails()" value="Nevermind">
+
+        </form>
+
+    </div>
+</div>        <div class="overlay" id="video-modal">
+    <div class="modal-content" id="video">
+        <div class="video-container">
+            <iframe id="yt-iframe" src="embed/v6BaCgwUmro.html?enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>            
+        </div>
+        <input type="button" id="close" onclick="hideVideo()" value="Close">
+    </div>
+</div>
+</body>
+</html>

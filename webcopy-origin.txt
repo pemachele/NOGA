@@ -1,0 +1,180 @@
+Uri: https://get-thrive.app/
+File Name: C:\Downloaded Web Sites\get-thrive.app\index.htm
+Content Type: text/html
+
+Uri: https://get-thrive.app/styles/main.css
+File Name: C:\Downloaded Web Sites\get-thrive.app\styles\main.css
+Content Type: text/css
+
+Uri: https://get-thrive.app/scripts/aos/aos.css
+File Name: C:\Downloaded Web Sites\get-thrive.app\scripts\aos\aos.css
+Content Type: text/css
+
+Uri: https://get-thrive.app/assets/images/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/01.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\01.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/goals-1.jpg
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\goals-1.jpg
+Content Type: image/jpeg
+
+Uri: https://get-thrive.app/assets/images/decisions-1.jpg
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\decisions-1.jpg
+Content Type: image/jpeg
+
+Uri: https://get-thrive.app/assets/images/ideas-1.jpg
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\ideas-1.jpg
+Content Type: image/jpeg
+
+Uri: https://apps.apple.com/gb/developer/cristian-moisei/id1397348511
+File Name: C:\Downloaded Web Sites\get-thrive.app\gb\developer\cristian-moisei\id1397348511.html
+Content Type: text/html
+
+Uri: https://get-thrive.app/media-kit.php
+File Name: C:\Downloaded Web Sites\get-thrive.app\media-kit.php.html
+Content Type: text/html
+
+Uri: https://get-thrive.app/scripts/modal.js
+File Name: C:\Downloaded Web Sites\get-thrive.app\scripts\modal.js
+Content Type: application/javascript
+
+Uri: https://get-thrive.app/scripts/hide-arrow.js
+File Name: C:\Downloaded Web Sites\get-thrive.app\scripts\hide-arrow.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-86884399-3
+File Name: C:\Downloaded Web Sites\get-thrive.app\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://get-thrive.app/assets/vectors/down-arrow.svg
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\vectors\down-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://get-thrive.app/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/vectors/download.svg
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\vectors\download.svg
+Content Type: image/svg+xml
+
+Uri: https://get-thrive.app/assets/vectors/play.svg
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\vectors\play.svg
+Content Type: image/svg+xml
+
+Uri: https://get-thrive.app/assets/vectors/apple.svg
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\vectors\apple.svg
+Content Type: image/svg+xml
+
+Uri: https://get-thrive.app/assets/vectors/product-hunt.svg
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\vectors\product-hunt.svg
+Content Type: image/svg+xml
+
+Uri: https://get-thrive.app/assets/images/goals-2.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\goals-2.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/goals-3.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\goals-3.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/goals-4.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\goals-4.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/goals-5.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\goals-5.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/ideas-2.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\ideas-2.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/ideas-3.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\ideas-3.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/decisions-2.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\decisions-2.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/decisions-3.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\decisions-3.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/scripts/aos/aos.js
+File Name: C:\Downloaded Web Sites\get-thrive.app\scripts\aos\aos.js
+Content Type: application/javascript
+
+Uri: https://get-thrive.app/scripts/aos/init.js
+File Name: C:\Downloaded Web Sites\get-thrive.app\scripts\aos\init.js
+Content Type: application/javascript
+
+Uri: https://www.youtube-nocookie.com/embed/v6BaCgwUmro?enablejsapi=1
+File Name: C:\Downloaded Web Sites\get-thrive.app\embed\v6BaCgwUmro.html
+Content Type: text/html
+
+Uri: https://get-thrive.app/assets/fonts/geomanist-medium-webfont.eot
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\fonts\geomanist-medium-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://get-thrive.app/assets/fonts/geomanist-medium-webfont.eot?
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\fonts\geomanist-medium-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://get-thrive.app/assets/fonts/geomanist-medium-webfont.woff2
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\fonts\geomanist-medium-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://get-thrive.app/assets/fonts/geomanist-medium-webfont.woff
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\fonts\geomanist-medium-webfont.woff
+Content Type: font/woff
+
+Uri: https://get-thrive.app/assets/fonts/geomanist-medium-webfont.ttf
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\fonts\geomanist-medium-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://get-thrive.app/assets/fonts/geomanist-regular-webfont.eot
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\fonts\geomanist-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://get-thrive.app/assets/fonts/geomanist-regular-webfont.eot?
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\fonts\geomanist-regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://get-thrive.app/assets/fonts/geomanist-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\fonts\geomanist-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://get-thrive.app/assets/fonts/geomanist-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\fonts\geomanist-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://get-thrive.app/assets/fonts/geomanist-regular-webfont.ttf
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\fonts\geomanist-regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://get-thrive.app/assets/images/p3-yellow.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\p3-yellow.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/p3-blue.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\p3-blue.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/images/p3-green.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\p3-green.png
+Content Type: image/png
+
+Uri: https://get-thrive.app/assets/thrive-kit.zip
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\thrive-kit.zip
+Content Type: application/zip
+
+Uri: https://get-thrive.app/assets/images/media-preview.png
+File Name: C:\Downloaded Web Sites\get-thrive.app\assets\images\media-preview.png
+Content Type: image/png
+
